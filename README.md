@@ -47,7 +47,7 @@ pip install -r requirements.txt
 1. Navegue até a pasta raiz do projeto:
 
 ```bash
-cd C:\Users\AnaVitóriaAraújodeSo\Desktop\automacao_amazon
+cd ...\automacao_amazon
 ```
 
 2. Execute o script principal:
