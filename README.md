@@ -47,7 +47,7 @@ pip install -r requirements.txt
 1. Navegue até a pasta raiz do projeto:
 
 ```bash
-cd ...\automacao_amazon
+cd ...\automacao
 ```
 
 2. Execute o script principal:
@@ -74,4 +74,4 @@ Esse arquivo registra cada etapa da automação, incluindo buscas, cliques e adi
 
 ---
 
-Projeto desenvolvido com 💻 Selenium e estruturado com boas práticas de automação.
+Projeto desenvolvido com Selenium com Python e estruturado com boas práticas de automação.
