@@ -1,0 +1,115 @@
+2025-10-17 20:00:45,468 - ====== WebDriver manager ======
+2025-10-17 20:00:47,348 - Get LATEST chromedriver version for google-chrome
+2025-10-17 20:00:47,912 - Get LATEST chromedriver version for google-chrome
+2025-10-17 20:00:48,468 - There is no [win64] chromedriver "141.0.7390.78" for browser google-chrome "141.0.7390" in cache
+2025-10-17 20:00:48,468 - Get LATEST chromedriver version for google-chrome
+2025-10-17 20:00:49,688 - WebDriver version 141.0.7390.78 selected
+2025-10-17 20:00:49,694 - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/141.0.7390.78/win32/chromedriver-win32.zip
+2025-10-17 20:00:49,697 - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/141.0.7390.78/win32/chromedriver-win32.zip
+2025-10-17 20:00:50,225 - Driver downloading response is 200
+2025-10-17 20:00:50,757 - Get LATEST chromedriver version for google-chrome
+2025-10-17 20:00:53,002 - Driver has been saved in cache [C:\Users\AnaVitóriaAraújodeSo\.wdm\drivers\chromedriver\win64\141.0.7390.78]
+2025-10-17 20:01:00,895 - Busca realizada com sucesso.
+2025-10-17 20:02:51,112 - ====== WebDriver manager ======
+2025-10-17 20:02:52,761 - Get LATEST chromedriver version for google-chrome
+2025-10-17 20:02:53,413 - Get LATEST chromedriver version for google-chrome
+2025-10-17 20:02:54,101 - Driver [C:\Users\AnaVitóriaAraújodeSo\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+2025-10-17 20:03:02,684 - Busca realizada com sucesso.
+2025-10-17 20:06:43,425 - ====== WebDriver manager ======
+2025-10-17 20:06:45,639 - Get LATEST chromedriver version for google-chrome
+2025-10-17 20:06:46,249 - Get LATEST chromedriver version for google-chrome
+2025-10-17 20:06:46,824 - Driver [C:\Users\AnaVitóriaAraújodeSo\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+2025-10-17 20:06:52,828 - Buscando Dom Casmurro
+2025-10-17 20:06:55,384 - Clicando no primeiro resultado de Dom Casmurro
+2025-10-17 20:07:01,676 - Adicionando Dom Casmurro ao carrinho
+2025-10-17 20:07:08,342 - Buscando Jogos Vorazes
+2025-10-17 20:07:11,207 - Clicando no primeiro resultado de Jogos Vorazes
+2025-10-17 20:08:44,664 - ====== WebDriver manager ======
+2025-10-17 20:08:46,186 - Get LATEST chromedriver version for google-chrome
+2025-10-17 20:08:46,716 - Get LATEST chromedriver version for google-chrome
+2025-10-17 20:08:47,240 - Driver [C:\Users\AnaVitóriaAraújodeSo\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+2025-10-17 20:08:50,488 - Buscando Dom Casmurro
+2025-10-17 20:08:57,189 - Clicando no primeiro resultado de Dom Casmurro
+2025-10-17 20:09:00,780 - Adicionando Dom Casmurro ao carrinho
+2025-10-17 20:09:07,937 - Buscando Jogos Vorazes
+2025-10-17 20:09:12,034 - Clicando no primeiro resultado de Jogos Vorazes
+2025-10-17 20:10:27,696 - ====== WebDriver manager ======
+2025-10-17 20:10:29,144 - Get LATEST chromedriver version for google-chrome
+2025-10-17 20:10:29,687 - Get LATEST chromedriver version for google-chrome
+2025-10-17 20:10:30,205 - Driver [C:\Users\AnaVitóriaAraújodeSo\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+2025-10-17 20:10:33,325 - Buscando Dom Casmurro
+2025-10-17 20:10:41,137 - Clicando no primeiro resultado de Dom Casmurro
+2025-10-17 20:10:44,784 - Adicionando Dom Casmurro ao carrinho
+2025-10-17 20:10:50,766 - Buscando Amanhecer na Colheita
+2025-10-17 20:10:52,942 - Clicando no primeiro resultado de Jogos Vorazes
+2025-10-17 20:12:13,572 - ====== WebDriver manager ======
+2025-10-17 20:12:15,087 - Get LATEST chromedriver version for google-chrome
+2025-10-17 20:12:15,673 - Get LATEST chromedriver version for google-chrome
+2025-10-17 20:12:16,233 - Driver [C:\Users\AnaVitóriaAraújodeSo\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+2025-10-17 20:12:22,902 - Buscando Dom Casmurro
+2025-10-17 20:12:33,807 - Clicando no primeiro resultado de Dom Casmurro
+2025-10-17 20:12:37,606 - Adicionando Dom Casmurro ao carrinho
+2025-10-17 20:12:44,430 - Buscando O Pequeno Príncipe
+2025-10-17 20:12:50,192 - Clicando no primeiro resultado de Jogos Vorazes
+2025-10-17 20:12:54,110 - Adicionando Jogos Vorazes ao carrinho
+2025-10-17 20:15:06,749 - ====== WebDriver manager ======
+2025-10-17 20:15:08,364 - Get LATEST chromedriver version for google-chrome
+2025-10-17 20:15:08,973 - Get LATEST chromedriver version for google-chrome
+2025-10-17 20:15:09,540 - Driver [C:\Users\AnaVitóriaAraújodeSo\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+2025-10-17 20:15:18,665 - Buscando Dom Casmurro
+2025-10-17 20:15:26,299 - Clicando no primeiro resultado de Dom Casmurro
+2025-10-17 20:15:30,325 - Adicionando Dom Casmurro ao carrinho
+2025-10-17 20:15:37,964 - Buscando O Pequeno Príncipe
+2025-10-17 20:15:43,989 - Clicando no primeiro resultado de Jogos Vorazes
+2025-10-17 20:15:47,797 - Adicionando Jogos Vorazes ao carrinho
+2025-10-17 20:17:45,736 - ====== WebDriver manager ======
+2025-10-17 20:17:47,385 - Get LATEST chromedriver version for google-chrome
+2025-10-17 20:17:47,951 - Get LATEST chromedriver version for google-chrome
+2025-10-17 20:17:48,588 - Driver [C:\Users\AnaVitóriaAraújodeSo\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+2025-10-17 20:17:51,982 - Buscando Dom Casmurro
+2025-10-17 20:17:58,534 - Clicando no primeiro resultado de Dom Casmurro
+2025-10-17 20:18:02,154 - Adicionando Dom Casmurro ao carrinho
+2025-10-17 20:18:08,991 - Buscando O Pequeno Príncipe
+2025-10-17 20:18:15,120 - Clicando no primeiro resultado de Pequeno Príncipe
+2025-10-17 20:18:21,562 - Adicionando Pequeno Príncipe ao carrinho
+2025-10-17 20:20:10,647 - ====== WebDriver manager ======
+2025-10-17 20:20:12,170 - Get LATEST chromedriver version for google-chrome
+2025-10-17 20:20:12,691 - Get LATEST chromedriver version for google-chrome
+2025-10-17 20:20:13,224 - Driver [C:\Users\AnaVitóriaAraújodeSo\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+2025-10-17 20:20:18,398 - Buscando Dom Casmurro
+2025-10-17 20:20:20,925 - Clicando no primeiro resultado de Dom Casmurro
+2025-10-17 20:20:27,374 - Adicionando Dom Casmurro ao carrinho
+2025-10-17 20:20:34,724 - Buscando O Pequeno Príncipe
+2025-10-17 20:20:40,053 - Clicando no primeiro resultado de O Pequeno Príncipe
+2025-10-17 20:20:44,562 - Adicionando O Pequeno Príncipe ao carrinho
+2025-10-17 20:20:48,175 - Abrindo o carrinho para visualizar os itens
+2025-10-17 20:22:04,568 - ====== WebDriver manager ======
+2025-10-17 20:22:06,598 - Get LATEST chromedriver version for google-chrome
+2025-10-17 20:22:07,300 - Get LATEST chromedriver version for google-chrome
+2025-10-17 20:22:07,909 - Driver [C:\Users\AnaVitóriaAraújodeSo\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+2025-10-17 20:23:37,713 - ====== WebDriver manager ======
+2025-10-17 20:23:39,223 - Get LATEST chromedriver version for google-chrome
+2025-10-17 20:23:39,722 - Get LATEST chromedriver version for google-chrome
+2025-10-17 20:23:40,215 - Driver [C:\Users\AnaVitóriaAraújodeSo\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+2025-10-17 20:23:46,505 - ====== WebDriver manager ======
+2025-10-17 20:23:47,997 - Get LATEST chromedriver version for google-chrome
+2025-10-17 20:23:48,530 - Get LATEST chromedriver version for google-chrome
+2025-10-17 20:23:49,030 - Driver [C:\Users\AnaVitóriaAraújodeSo\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+2025-10-17 20:23:52,114 - Buscando Dom Casmurro
+2025-10-17 20:23:59,495 - Clicando no primeiro resultado de Dom Casmurro
+2025-10-17 20:24:03,191 - Adicionando Dom Casmurro ao carrinho
+2025-10-17 20:24:10,337 - Buscando O Pequeno Príncipe
+2025-10-17 20:24:16,005 - Clicando no primeiro resultado de O Pequeno Príncipe
+2025-10-17 20:24:19,784 - Adicionando O Pequeno Príncipe ao carrinho
+2025-10-17 20:24:23,273 - Abrindo o carrinho para visualizar os itens
+2025-10-17 20:24:40,254 - ====== WebDriver manager ======
+2025-10-17 20:24:41,896 - Get LATEST chromedriver version for google-chrome
+2025-10-17 20:24:42,535 - Get LATEST chromedriver version for google-chrome
+2025-10-17 20:24:43,239 - Driver [C:\Users\AnaVitóriaAraújodeSo\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+2025-10-17 20:24:47,052 - Buscando Dom Casmurro
+2025-10-17 20:24:54,540 - Clicando no primeiro resultado de Dom Casmurro
+2025-10-17 20:24:58,473 - Adicionando Dom Casmurro ao carrinho
+2025-10-17 20:25:09,332 - Buscando O Pequeno Príncipe
+2025-10-17 20:25:15,616 - Clicando no primeiro resultado de O Pequeno Príncipe
+2025-10-17 20:25:19,685 - Adicionando O Pequeno Príncipe ao carrinho
+2025-10-17 20:25:23,171 - Abrindo o carrinho para visualizar os itens
